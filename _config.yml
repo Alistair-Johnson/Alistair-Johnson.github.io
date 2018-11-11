@@ -1,4 +1,30 @@
+# Theme Settings
+#
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Site Settings
+locale                   : "en-UK"
+title_separator          : "-"
 name: Alistair Johnson
 title: Alistair Johnson
 description: Alistair's Stuff
-remote_theme: "mmistakes/minimal-mistakes"
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
