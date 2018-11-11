@@ -1,4 +1,4 @@
 name: Alistair Johnson
 title: Alistair Johnson
 description: Alistair's Stuff
-theme: jekyll-theme-dinky
+remote_theme: "mmistakes/minimal-mistakes"
