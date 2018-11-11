@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Alistair Johnson"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Yep..."
   location         : "Somewhere..."
   email            :
